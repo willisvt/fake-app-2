@@ -10,7 +10,7 @@ export default {
         datasets: [
           {
             data: [11, 16, 7, 18],
-            backgroundColor: ['#f46a6a', '#34c38f', '#f1b44c', '#556ee6'],
+            backgroundColor: ['#f46a6a', '#34c38f', '#f1b44c', '#1A88F0'],
             label: 'My dataset', // for legend
             hoverBorderColor: '#fff',
           },

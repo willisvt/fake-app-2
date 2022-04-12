@@ -107,7 +107,7 @@ export default {
     >
       <form-wizard
         shape="tab"
-        color="#556ee6"
+        color="#1A88F0"
         ref="iswizard"
         @on-complete="onComplete"
       >

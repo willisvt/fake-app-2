@@ -40,7 +40,7 @@ export default {
         <div class="card">
           <div class="card-body">
             <h4 class="card-title">Basic Wizard</h4>
-            <form-wizard color="#556ee6">
+            <form-wizard color="#1A88F0">
               <tab-content icon="mdi mdi-account-circle">
                 <div class="row">
                   <div class="col-12">
@@ -183,7 +183,7 @@ export default {
         <div class="card">
           <div class="card-body">
             <h4 class="card-title">Tab Wizard</h4>
-            <form-wizard shape="tab" color="#556ee6">
+            <form-wizard shape="tab" color="#1A88F0">
               <tab-content icon="mdi mdi-account-circle">
                 <div class="row">
                   <div class="col-12">

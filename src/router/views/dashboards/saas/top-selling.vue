@@ -17,7 +17,7 @@ export default {
               name: "Product A",
               text: "Neque quis est",
               sales: 37,
-              color: "#556ee6",
+              color: "#1A88F0",
             },
             {
               name: "Product B",
@@ -56,7 +56,7 @@ export default {
                   name: "Product E",
                   text: "Quis autem iure",
                   sales: 14,
-                  color: "#556ee6",
+                  color: "#1A88F0",
                 },
                 {
                   name: "Product F",
@@ -79,7 +79,7 @@ export default {
                   name: "Product A",
                   text: "Neque quis est",
                   sales: 37,
-                  color: "#556ee6",
+                  color: "#1A88F0",
                 },
                 {
                   name: "Product B",
@@ -114,7 +114,7 @@ export default {
                   name: "Product H",
                   text: "Quis autem iure",
                   sales: 20,
-                  color: "#556ee6",
+                  color: "#1A88F0",
                 },
                 {
                   name: "Product I",
@@ -149,7 +149,7 @@ export default {
                   name: "Product L",
                   text: "Sed aliquam mauris.",
                   sales: 52,
-                  color: "#556ee6",
+                  color: "#1A88F0",
                 },
               ],
             },

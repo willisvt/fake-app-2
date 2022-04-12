@@ -23,22 +23,14 @@ export default {
           height: 320,
           type: "line",
           toolbar: "false",
-          dropShadow: {
-            enabled: true,
-            color: "#000",
-            top: 18,
-            left: 7,
-            blur: 8,
-            opacity: 0.2,
-          },
         },
         dataLabels: {
           enabled: false,
         },
-        colors: ["#556ee6"],
+        colors: ["#1A88F0"],
         stroke: {
           curve: "smooth",
-          width: 3,
+          width: 4,
         },
       },
     };

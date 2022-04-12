@@ -16,9 +16,10 @@ export default {
     axios.get(process.env.VUE_APP_URL).then((res) => {
       setTimeout(() => {
         // you can remove this settimeout method for production or integrating live API.
+        const preloaders = document.getElementsByClassName("preloader-component");
+        
         document
-          .getElementsByClassName("preloader-component")
-          .forEach((elem) => {
+          Array.from(preloaders).forEach((elem) => {
             elem.style.display = "none";
           });
         document.getElementsByClassName("status").forEach((elem) => {

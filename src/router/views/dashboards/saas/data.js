@@ -6,7 +6,7 @@ const salesAnalyticsDonutChart = {
             height: 240,
         },
         labels: ['Series A', 'Series B', 'Series C'],
-        colors: ['#556ee6', '#34c38f', '#f46a6a'],
+        colors: ['#1A88F0', '#34c38f', '#f46a6a'],
         legend: {
             show: false,
         },

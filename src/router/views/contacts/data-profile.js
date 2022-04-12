@@ -36,7 +36,7 @@ const revenueChart = {
             opacity: 1
 
         },
-        colors: ['#556ee6'],
+        colors: ['#1A88F0'],
     }
 };
 

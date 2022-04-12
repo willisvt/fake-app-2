@@ -21,7 +21,7 @@ export default {
               show: false,
             },
           },
-          colors: ["#556ee6", "#f1b44c"],
+          colors: ["#1A88F0", "#f1b44c"],
           dataLabels: {
             enabled: false,
           },

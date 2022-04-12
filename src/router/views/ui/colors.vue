@@ -39,7 +39,7 @@ export default {
           <div class="card-body text-center">
             <div class="rounded overflow-hidden">
               <div class="color-box bg-primary p-4">
-                <h5 class="my-2 text-white">#556ee6</h5>
+                <h5 class="my-2 text-white">#1A88F0</h5>
               </div>
               <div class="color-box bg-primary bg-gradient p-4">
                 <h5 class="my-2 text-white">bg-gradient</h5>

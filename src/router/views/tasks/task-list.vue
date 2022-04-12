@@ -20,6 +20,7 @@ export default {
       tasksChart: tasksChart,
       inprogressTasks: "",
       upcomingTasks: "",
+      reviewTasks: "",
       completedTasks: "",
       title: "Task List",
       items: [
@@ -90,6 +91,7 @@ export default {
       this.tasks = tasks;
       this.inprogressTasks = tasks.filter((t) => t.taskType === "inprogress");
       this.upcomingTasks = tasks.filter((t) => t.taskType === "upcoming");
+      this.reviewTasks = tasks.filter((t) => t.taskType === "review");
       this.completedTasks = tasks.filter((t) => t.taskType === "completed");
     },
   },
@@ -157,6 +159,9 @@ export default {
                         >
                         <b-form-select-option value="inprogress"
                           >In-progress</b-form-select-option
+                        >
+                        <b-form-select-option value="review"
+                          >To Review</b-form-select-option
                         >
                         <b-form-select-option value="completed"
                           >Completed</b-form-select-option
@@ -266,6 +271,70 @@ export default {
                   <tr v-for="task of inprogressTasks" :key="task.index">
                     <td style="width: 40px">
                         <b-form-checkbox
+                        class="form-check" v-model="task.checked">
+                      </b-form-checkbox>
+                    </td>
+                    <td>
+                      <h5 class="text-truncate font-size-14 m-0">
+                        <a href="javascript: void(0);" class="text-dark">{{
+                          task.name
+                        }}</a>
+                      </h5>
+                    </td>
+                    <td>
+                      <div class="avatar-group">
+                        <div
+                          class="avatar-group-item"
+                          v-for="(data, index) of task.images"
+                          :key="index"
+                        >
+                          <a href="javascript: void(0);" class="d-inline-block">
+                            <img
+                              :src="`${data}`"
+                              alt=""
+                              class="rounded-circle avatar-xs"
+                            />
+                          </a>
+                        </div>
+                      </div>
+                    </td>
+                    <td>
+                      <div class="text-center">
+                        <span
+                          class="badge rounded-pill font-size-11"
+                          :class="{
+                            'badge-soft-success': task.status === 'Complete',
+                            'badge-soft-warning': task.status === 'Pending',
+                            'badge-soft-primary': task.status === 'Approved',
+                            'badge-soft-secondary': task.status === 'Waiting',
+                          }"
+                          >{{ task.status }}</span
+                        >
+                      </div>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-body">
+            <div class="d-flex align-items-start">
+              <h4 class="card-title mb-4">To Review</h4>
+              <b-button
+                class="btn btn-success ms-auto"
+                @click="showModal = true"
+                >Add Task</b-button
+              >
+            </div>
+            <div class="table-responsive mb-0">
+              <table class="table table-nowrap table-centered">
+                <tbody>
+                  <tr v-for="task of reviewTasks" :key="task.index">
+                    <td style="width: 40px">
+                       <b-form-checkbox
                         class="form-check" v-model="task.checked">
                       </b-form-checkbox>
                     </td>

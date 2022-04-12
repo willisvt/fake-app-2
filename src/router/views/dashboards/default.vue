@@ -140,7 +140,7 @@ export default {
   },
   mounted() {
     setTimeout(() => {
-      this.showModal = true;
+      this.showModal = false;
     }, 1500);
   },
 };

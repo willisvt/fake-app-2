@@ -39,7 +39,7 @@ const barChart = {
                 text: 'Week',
             }
         },
-        colors: ['#556ee6'],
+        colors: ['#1A88F0'],
     },
 };
 

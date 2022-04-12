@@ -10,8 +10,8 @@ export default {
         datasets: [
           {
             data: [300, 210],
-            backgroundColor: ["#556ee6", "#ebeff2"],
-            hoverBackgroundColor: ["#556ee6", "#ebeff2"],
+            backgroundColor: ["#1A88F0", "#ebeff2"],
+            hoverBackgroundColor: ["#1A88F0", "#ebeff2"],
             hoverBorderColor: "#fff",
             borderWidth: 0,
             radius: "90%",

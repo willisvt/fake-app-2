@@ -129,7 +129,7 @@ export default {
                         font-weight: 500;
                         text-align: center;
                         border-radius: 7px 7px 0 0;
-                        background-color: #556ee6;
+                        background-color: #1A88F0;
                         margin: 0;
                         padding: 20px;
                       "

@@ -263,7 +263,7 @@ export default {
                       id="color"
                       type="color"
                       name="color"
-                      value="#556ee6"
+                      value="#1A88F0"
                     ></b-form-input>
                   </b-form-group>
 

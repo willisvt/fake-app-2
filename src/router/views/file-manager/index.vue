@@ -34,7 +34,7 @@ export default {
             enabled: true,
           },
         },
-        colors: ["#556ee6"],
+        colors: ["#1A88F0"],
         plotOptions: {
           radialBar: {
             startAngle: -90,

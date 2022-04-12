@@ -29,7 +29,7 @@ const tasksChart = {
                 endingShape: 'rounded'
             }
         },
-        colors: ['#556ee6', '#34c38f'],
+        colors: ['#1A88F0', '#34c38f'],
         fill: {
             gradient: {
                 inverseColors: false,
@@ -113,6 +113,30 @@ const tasks = [
         name: 'Create a Blog Template UI',
         images: [require('@/assets/images/users/avatar-4.jpg'), require('@/assets/images/users/avatar-2.jpg')],
         status: 'Complete',
+        checked: false
+    },
+    {
+        index: 11,
+        taskType: 'review',
+        name: 'Task is here Title - ID11',
+        images: [require('@/assets/images/users/avatar-6.jpg')],
+        status: 'Pending',
+        checked: false
+    },
+    {
+        index: 12,
+        taskType: 'review',
+        name: 'Task is here Title: ID - 12 ',
+        images: [require('@/assets/images/users/avatar-7.jpg')],
+        status: 'Pending',
+        checked: true
+    },
+    {
+        index: 13,
+        taskType: 'review',
+        name: 'Task is here Title Thirteen',
+        images: [require('@/assets/images/users/avatar-4.jpg'), require('@/assets/images/users/avatar-2.jpg')],
+        status: 'Pending',
         checked: false
     }
 ];

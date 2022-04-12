@@ -77,7 +77,7 @@ const mixedBarChart = {
             saveAsImage: { title: "Download Image" }
         }
     },
-    color: ['#34c38f', '#556ee6', '#f46a6a'],
+    color: ['#34c38f', '#1A88F0', '#f46a6a'],
     legend: {
         data: ['Evaporation', 'Precipitation', 'Average temperature'],
         textStyle: { color: '#8791af' }
@@ -175,7 +175,7 @@ const guageChart = {
             detail: { formatter: '{value}%' },
             axisLine: {
                 lineStyle: {
-                    color: [[0.2, '#34c38f'], [0.8, '#556ee6'], [1, '#f46a6a']],
+                    color: [[0.2, '#34c38f'], [0.8, '#1A88F0'], [1, '#f46a6a']],
                     width: 20
                 }
             },
@@ -262,7 +262,7 @@ const pieChart = {
             color: '#999'
         }
     },
-    color: ['#556ee6', '#f1b44c', '#f46a6a', '#50a5f1', '#34c38f'],
+    color: ['#1A88F0', '#f1b44c', '#f46a6a', '#50a5f1', '#34c38f'],
     series: [
         {
             name: 'Total sales',
@@ -421,7 +421,7 @@ const doughnutChart = {
             color: '#999'
         }
     },
-    color: ['#556ee6', '#f1b44c', '#f46a6a', '#50a5f1', '#34c38f'],
+    color: ['#1A88F0', '#f1b44c', '#f46a6a', '#50a5f1', '#34c38f'],
     series: [
         {
             name: 'Total sales',
@@ -504,9 +504,9 @@ const candleStickChart = {
         ],
         itemStyle: {
             normal: {
-                color: '#556ee6',
+                color: '#1A88F0',
                 color0: '#34c38f',
-                borderColor: '#556ee6',
+                borderColor: '#1A88F0',
                 borderColor0: '#34c38f'
             }
         }

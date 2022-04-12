@@ -152,7 +152,7 @@ export default {
           </div>
         </form>
 
-        <b-dropdown
+        <!-- <b-dropdown
           variant="black"
           class="dropdown-mega d-none d-lg-block ms-2"
           toggle-class="header-item"
@@ -364,7 +364,7 @@ export default {
               </div>
             </div>
           </div>
-        </b-dropdown>
+        </b-dropdown> -->
       </div>
 
       <div class="d-flex">
@@ -398,7 +398,7 @@ export default {
           </form>
         </b-dropdown>
 
-        <b-dropdown variant="white" right toggle-class="header-item">
+        <!-- <b-dropdown variant="white" right toggle-class="header-item">
           <template v-slot:button-content>
             <img class :src="flag" alt="Header Language" height="16" />
             {{ text }}
@@ -419,7 +419,7 @@ export default {
             />
             <span class="align-middle">{{ entry.title }}</span>
           </b-dropdown-item>
-        </b-dropdown>
+        </b-dropdown> -->
 
         <b-dropdown
           class="d-none d-lg-inline-block noti-icon"
@@ -486,7 +486,7 @@ export default {
           </div>
         </b-dropdown>
 
-        <div class="dropdown d-none d-lg-inline-block ms-1">
+        <!-- <div class="dropdown d-none d-lg-inline-block ms-1">
           <button
             type="button"
             class="btn header-item noti-icon"
@@ -494,7 +494,7 @@ export default {
           >
             <i class="bx bx-fullscreen"></i>
           </button>
-        </div>
+        </div> -->
 
         <b-dropdown
           right
@@ -692,7 +692,7 @@ export default {
             class="btn header-item noti-icon right-bar-toggle toggle-right"
             @click="toggleRightSidebar"
           >
-            <i class="bx bx-cog bx-spin toggle-right"></i>
+            <i class="bx bx-cog toggle-right"></i>
           </button>
         </div>
       </div>

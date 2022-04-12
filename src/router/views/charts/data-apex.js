@@ -10,7 +10,7 @@ const linewithDataChart = {
                 show: false
             }
         },
-        colors: ['#556ee6', '#34c38f'],
+        colors: ['#1A88F0', '#34c38f'],
         dataLabels: {
             enabled: false,
         },
@@ -103,7 +103,7 @@ const dashedLineChart = {
                 show: false,
             }
         },
-        colors: ['#556ee6', '#f46a6a', '#34c38f'],
+        colors: ['#1A88F0', '#f46a6a', '#34c38f'],
         dataLabels: {
             enabled: false
         },
@@ -178,7 +178,7 @@ const splineAreaChart = {
             curve: 'smooth',
             width: 3,
         },
-        colors: ['#556ee6', '#34c38f'],
+        colors: ['#1A88F0', '#34c38f'],
         xaxis: {
             type: 'datetime',
             categories: ["2018-09-19T00:00:00", "2018-09-19T01:30:00", "2018-09-19T02:30:00", "2018-09-19T03:30:00", "2018-09-19T04:30:00", "2018-09-19T05:30:00", "2018-09-19T06:30:00"],
@@ -226,7 +226,7 @@ const columnChart = {
             width: 2,
             colors: ['transparent']
         },
-        colors: ['#34c38f', '#556ee6', '#f46a6a'],
+        colors: ['#34c38f', '#1A88F0', '#f46a6a'],
         xaxis: {
             categories: ['Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct'],
         },
@@ -283,7 +283,7 @@ const columnDatalabelChart = {
                 colors: ["#304758"]
             }
         },
-        colors: ['#556ee6'],
+        colors: ['#1A88F0'],
         grid: {
             borderColor: '#f1f1f1',
         },
@@ -414,7 +414,7 @@ const mixedChart = {
                 columnWidth: '50%'
             }
         },
-        colors: ['#f46a6a', '#556ee6', '#34c38f'],
+        colors: ['#f46a6a', '#1A88F0', '#34c38f'],
         fill: {
             opacity: [0.85, 0.25, 1],
             gradient: {
@@ -482,7 +482,7 @@ const radialChart = {
             }
         },
         labels: ['Computer', 'Tablet', 'Laptop', 'Mobile'],
-        colors: ['#556ee6', '#34c38f', '#f46a6a', '#f1b44c'],
+        colors: ['#1A88F0', '#34c38f', '#f46a6a', '#f1b44c'],
     }
 };
 
@@ -490,7 +490,7 @@ const pieChart = {
     series: [44, 55, 41, 17, 15],
     chartOptions: {
         labels: ["Series 1", "Series 2", "Series 3", "Series 4", "Series 5"],
-        colors: ["#34c38f", "#556ee6", "#f46a6a", "#50a5f1", "#f1b44c"],
+        colors: ["#34c38f", "#1A88F0", "#f46a6a", "#50a5f1", "#f1b44c"],
         legend: {
             show: true,
             position: 'bottom',
@@ -518,7 +518,7 @@ const donutChart = {
     series: [44, 55, 41, 17, 15],
     chartOptions: {
         labels: ["Series 1", "Series 2", "Series 3", "Series 4", "Series 5"],
-        colors: ["#34c38f", "#556ee6", "#f46a6a", "#50a5f1", "#f1b44c"],
+        colors: ["#34c38f", "#1A88F0", "#f46a6a", "#50a5f1", "#f1b44c"],
         legend: {
             show: true,
             position: 'bottom',

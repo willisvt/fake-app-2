@@ -58,6 +58,38 @@ const progressTasks = [
     },
 ];
 
+
+const reviewTasks = [
+    {
+        id: 12,
+        title: 'Task ID 12 - Landing page',
+        date: '10 Oct, 2019',
+        task: 'Complete',
+        user: [require('@/assets/images/users/avatar-4.jpg')],
+        budget: 145,
+        groupId: 3
+    },
+    {
+        id: 13,
+        title: 'Thirteenth Task Title',
+        date: '09 Oct, 2019',
+        task: 'Complete',
+        user: [require('@/assets/images/users/avatar-6.jpg'), require('@/assets/images/users/avatar-7.jpg')],
+        budget: 92,
+        groupId: 3
+    },
+    {
+        id: 14,
+        title: 'Task ID 14 is here',
+        date: '15 Oct, 2019',
+        task: 'Waiting',
+        user: [require('@/assets/images/users/avatar-5.jpg')],
+        budget: 86,
+        groupId: 3
+    },
+];
+
+
 const completedTasks = [
     {
         id: 7,
@@ -88,5 +120,5 @@ const completedTasks = [
     },
 ];
 
-export { upcomingTasks, progressTasks, completedTasks };
+export { upcomingTasks, progressTasks, reviewTasks, completedTasks };
 

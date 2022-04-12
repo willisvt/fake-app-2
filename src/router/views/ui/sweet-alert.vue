@@ -107,7 +107,7 @@ export default {
         text: "Modal with a custom image.",
         imageUrl: require("@/assets/images/logo-dark.png"),
         imageHeight: 20,
-        confirmButtonColor: "#556ee6"
+        confirmButtonColor: "#1A88F0"
       });
     },
     timer() {
@@ -159,7 +159,7 @@ export default {
         title: "Custom width, padding, background.",
         width: 600,
         padding: 100,
-        confirmButtonColor: "#556ee6",
+        confirmButtonColor: "#1A88F0",
         background:
           "#fff url(//subtlepatterns2015.subtlepatterns.netdna-cdn.com/patterns/geometry.png)"
       });
@@ -171,7 +171,7 @@ export default {
         showCancelButton: true,
         confirmButtonText: "Submit",
         showLoaderOnConfirm: true,
-        confirmButtonColor: "#556ee6",
+        confirmButtonColor: "#1A88F0",
         cancelButtonColor: "#f46a6a",
         preConfirm: email => {
           // eslint-disable-next-line no-unused-vars
@@ -198,7 +198,7 @@ export default {
         input: "text",
         confirmButtonText: "Next &rarr;",
         showCancelButton: true,
-        confirmButtonColor: "#556ee6",
+        confirmButtonColor: "#1A88F0",
         cancelButtonColor: "#74788d",
         progressSteps: ["1", "2", "3"]
       })
