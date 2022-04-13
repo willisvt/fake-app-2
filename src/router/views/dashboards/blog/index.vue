@@ -129,7 +129,7 @@ export default {
               <div class="d-flex">
                 <div class="me-3">
                   <img
-                    src="@/assets/images/users/avatar-1.jpg"
+                    src="@/assets/images/users/avatar-1.png"
                     alt=""
                     class="avatar-sm rounded-circle img-thumbnail"
                   />
@@ -138,7 +138,7 @@ export default {
                   <div class="d-flex">
                     <div class="flex-grow-1">
                       <div class="text-muted">
-                        <h5 class="mb-1">Henry wells</h5>
+                        <h5 class="mb-1">Samantha wells</h5>
                         <p class="mb-0">UI / UX Designer</p>
                       </div>
                     </div>

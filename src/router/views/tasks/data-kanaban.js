@@ -4,7 +4,7 @@ const upcomingTasks = [
         title: 'Topnav layout design',
         date: '14 Oct, 2019',
         task: 'Waiting',
-        user: [require('@/assets/images/users/avatar-4.jpg'), require('@/assets/images/users/avatar-5.jpg')],
+        user: [require('@/assets/images/users/avatar-4.png'), require('@/assets/images/users/avatar-5.jpg')],
         budget: 145,
         groupId: 1
     },
@@ -43,7 +43,7 @@ const progressTasks = [
         title: 'Create a Blog Template UI',
         date: '13 Oct, 2019',
         task: 'Pending',
-        user: [require('@/assets/images/users/avatar-8.jpg'), require('@/assets/images/users/avatar-1.jpg')],
+        user: [require('@/assets/images/users/avatar-8.jpg'), require('@/assets/images/users/avatar-1.png')],
         budget: 103,
         groupId: 2
     },
@@ -52,7 +52,7 @@ const progressTasks = [
         title: 'Skote Dashboard UI',
         date: '13 Oct, 2019',
         task: 'Complete',
-        user: [require('@/assets/images/users/avatar-2.jpg')],
+        user: [require('@/assets/images/users/avatar-2.png')],
         budget: 94,
         groupId: 2
     },
@@ -65,7 +65,7 @@ const reviewTasks = [
         title: 'Task ID 12 - Landing page',
         date: '10 Oct, 2019',
         task: 'Complete',
-        user: [require('@/assets/images/users/avatar-4.jpg')],
+        user: [require('@/assets/images/users/avatar-4.png')],
         budget: 145,
         groupId: 3
     },
@@ -96,7 +96,7 @@ const completedTasks = [
         title: 'Redesign - Landing page',
         date: '10 Oct, 2019',
         task: 'Complete',
-        user: [require('@/assets/images/users/avatar-4.jpg')],
+        user: [require('@/assets/images/users/avatar-4.png')],
         budget: 145,
         groupId: 3
     },

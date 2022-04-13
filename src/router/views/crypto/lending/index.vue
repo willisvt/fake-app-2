@@ -59,7 +59,7 @@ export default {
               </div>
 
               <div>
-                <h5 class>Henry Wells</h5>
+                <h5 class>Samantha Wells</h5>
                 <p class="text-muted mb-1">henrywells@abc.com</p>
                 <p class="text-muted mb-0">Id no: #SK0234</p>
               </div>

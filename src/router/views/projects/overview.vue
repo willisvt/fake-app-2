@@ -102,7 +102,7 @@ export default {
                   <tr>
                     <td style="width: 50px;">
                       <img
-                        src="@/assets/images/users/avatar-2.jpg"
+                        src="@/assets/images/users/avatar-2.png"
                         class="rounded-circle avatar-xs"
                         alt
                       />
@@ -128,7 +128,7 @@ export default {
                   <tr>
                     <td>
                       <img
-                        src="@/assets/images/users/avatar-1.jpg"
+                        src="@/assets/images/users/avatar-1.png"
                         class="rounded-circle avatar-xs"
                         alt
                       />
@@ -172,7 +172,7 @@ export default {
                   <tr>
                     <td>
                       <img
-                        src="@/assets/images/users/avatar-4.jpg"
+                        src="@/assets/images/users/avatar-4.png"
                         class="rounded-circle avatar-xs"
                         alt
                       />
@@ -367,7 +367,7 @@ export default {
                 <img
                   class="media-object rounded-circle avatar-xs"
                   alt
-                  src="@/assets/images/users/avatar-2.jpg"
+                  src="@/assets/images/users/avatar-2.png"
                 />
               </div>
               <div class="flex-grow-1">
@@ -384,13 +384,13 @@ export default {
                 <img
                   class="media-object rounded-circle avatar-xs"
                   alt
-                  src="@/assets/images/users/avatar-3.jpg"
+                  src="@/assets/images/users/avatar-3.png"
                 />
               </div>
               <div class="flex-grow-1">
                 <h5 class="font-size-13 mb-1">Steve Foster</h5>
                 <p class="text-muted mb-1">
-                  <a href class="text-success">@Henry</a>
+                  <a href class="text-success">@Samantha</a>
                   To an English person it will like simplified
                 </p>
                 <div class="d-flex mt-3">

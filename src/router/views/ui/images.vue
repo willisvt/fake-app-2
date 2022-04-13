@@ -59,7 +59,7 @@ export default {
                   <img
                     class="rounded-circle avatar-xl"
                     alt="200x200"
-                    src="@/assets/images/users/avatar-4.jpg"
+                    src="@/assets/images/users/avatar-4.png"
                     data-holder-rendered="true"
                   />
                 </div>
@@ -93,7 +93,7 @@ export default {
                   <img
                     class="img-thumbnail rounded-circle avatar-xl"
                     alt="200x200"
-                    src="@/assets/images/users/avatar-3.jpg"
+                    src="@/assets/images/users/avatar-3.png"
                     data-holder-rendered="true"
                   />
                 </div>
@@ -137,7 +137,7 @@ export default {
                 <div class="row">
                   <div class="col-lg-4">
                     <div>
-                      <img src="@/assets/images/users/avatar-3.jpg" alt class="rounded avatar-sm" />
+                      <img src="@/assets/images/users/avatar-3.png" alt class="rounded avatar-sm" />
                       <p class="mt-2 mb-lg-0">
                         <code>.avatar-sm</code>
                       </p>
@@ -145,7 +145,7 @@ export default {
                   </div>
                   <div class="col-lg-4">
                     <div>
-                      <img src="@/assets/images/users/avatar-4.jpg" alt class="rounded avatar-md" />
+                      <img src="@/assets/images/users/avatar-4.png" alt class="rounded avatar-md" />
                       <p class="mt-2 mb-lg-0">
                         <code>.avatar-md</code>
                       </p>
@@ -166,7 +166,7 @@ export default {
                   <div class="col-lg-4">
                     <div>
                       <img
-                        src="@/assets/images/users/avatar-3.jpg"
+                        src="@/assets/images/users/avatar-3.png"
                         alt
                         class="rounded-circle avatar-sm"
                       />
@@ -178,7 +178,7 @@ export default {
                   <div class="col-lg-4">
                     <div>
                       <img
-                        src="@/assets/images/users/avatar-4.jpg"
+                        src="@/assets/images/users/avatar-4.png"
                         alt
                         class="rounded-circle avatar-md"
                       />

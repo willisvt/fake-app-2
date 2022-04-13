@@ -55,7 +55,7 @@ const tasks = [
         index: 1,
         taskType: 'upcoming',
         name: 'Create a Skote Dashboard UI',
-        images: [require('@/assets/images/users/avatar-2.jpg'), require('@/assets/images/users/avatar-1.jpg')],
+        images: [require('@/assets/images/users/avatar-2.png'), require('@/assets/images/users/avatar-1.png')],
         status: 'Waiting',
         checked: false
     },
@@ -63,7 +63,7 @@ const tasks = [
         index: 2,
         taskType: 'upcoming',
         name: 'Create a New Landing UI',
-        images: [require('@/assets/images/users/avatar-4.jpg'), require('@/assets/images/users/avatar-5.jpg')],
+        images: [require('@/assets/images/users/avatar-4.png'), require('@/assets/images/users/avatar-5.jpg')],
         status: 'Approved',
         checked: true
     },
@@ -71,7 +71,7 @@ const tasks = [
         index: 3,
         taskType: 'upcoming',
         name: 'Create a Skote Logo',
-        images: [require('@/assets/images/users/avatar-1.jpg')],
+        images: [require('@/assets/images/users/avatar-1.png')],
         status: 'Waiting',
         checked: false
     },
@@ -87,7 +87,7 @@ const tasks = [
         index: 5,
         taskType: 'inprogress',
         name: 'Create a Blog Template UI',
-        images: [require('@/assets/images/users/avatar-8.jpg'), require('@/assets/images/users/avatar-1.jpg')],
+        images: [require('@/assets/images/users/avatar-8.jpg'), require('@/assets/images/users/avatar-1.png')],
         status: 'Pending',
         checked: false
     },
@@ -111,7 +111,7 @@ const tasks = [
         index: 8,
         taskType: 'completed',
         name: 'Create a Blog Template UI',
-        images: [require('@/assets/images/users/avatar-4.jpg'), require('@/assets/images/users/avatar-2.jpg')],
+        images: [require('@/assets/images/users/avatar-4.png'), require('@/assets/images/users/avatar-2.png')],
         status: 'Complete',
         checked: false
     },
@@ -135,7 +135,7 @@ const tasks = [
         index: 13,
         taskType: 'review',
         name: 'Task is here Title Thirteen',
-        images: [require('@/assets/images/users/avatar-4.jpg'), require('@/assets/images/users/avatar-2.jpg')],
+        images: [require('@/assets/images/users/avatar-4.png'), require('@/assets/images/users/avatar-2.png')],
         status: 'Pending',
         checked: false
     }

@@ -65,7 +65,7 @@ export default {
       <a href="javascript: void(0);" class="d-flex">
         <img
           class="d-flex me-3 rounded-circle"
-          src="@/assets/images/users/avatar-2.jpg"
+          src="@/assets/images/users/avatar-2.png"
           alt="Generic placeholder image"
           height="36"
         />
@@ -78,7 +78,7 @@ export default {
       <a href="javascript: void(0);" class="d-flex">
         <img
           class="d-flex me-3 rounded-circle"
-          src="@/assets/images/users/avatar-3.jpg"
+          src="@/assets/images/users/avatar-3.png"
           alt="Generic placeholder image"
           height="36"
         />
@@ -91,7 +91,7 @@ export default {
       <a href="javascript: void(0);" class="d-flex">
         <img
           class="d-flex me-3 rounded-circle"
-          src="@/assets/images/users/avatar-4.jpg"
+          src="@/assets/images/users/avatar-4.png"
           alt="Generic placeholder image"
           height="36"
         />

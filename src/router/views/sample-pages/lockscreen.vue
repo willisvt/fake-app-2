@@ -65,7 +65,7 @@ export default {
                   <form class="form-horizontal">
                     <div class="user-thumb text-center mb-4">
                       <img
-                        src="@/assets/images/users/avatar-1.jpg"
+                        src="@/assets/images/users/avatar-1.png"
                         class="rounded-circle img-thumbnail avatar-md"
                         alt="thumbnail"
                       />

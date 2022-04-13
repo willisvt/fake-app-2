@@ -79,7 +79,7 @@ export default {
         this.ChatData.push({
           id: id + 1,
           align: "right",
-          name: "Henry Wells",
+          name: "Samantha Wells",
           message,
           time: currentDate.getHours() + ":" + currentDate.getMinutes(),
         });
@@ -119,7 +119,7 @@ export default {
                 <div class="d-flex">
                   <div class="me-3">
                     <img
-                      src="@/assets/images/users/avatar-1.jpg"
+                      src="@/assets/images/users/avatar-1.png"
                       alt
                       class="avatar-md rounded-circle img-thumbnail"
                     />
@@ -127,7 +127,7 @@ export default {
                   <div class="flex-grow-1 align-self-center">
                     <div class="text-muted">
                       <p class="mb-2">Welcome to skote dashboard</p>
-                      <h5 class="mb-1">Henry wells</h5>
+                      <h5 class="mb-1">Samantha wells</h5>
                       <p class="mb-0">UI / UX Designer</p>
                     </div>
                   </div>

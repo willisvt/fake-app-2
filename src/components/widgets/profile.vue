@@ -39,12 +39,12 @@ export default {
           <div class="col-sm-4">
             <div class="avatar-md profile-user-wid mb-4">
               <img
-                src="@/assets/images/users/avatar-1.jpg"
+                src="@/assets/images/users/avatar-1.png"
                 alt
                 class="img-thumbnail rounded-circle"
               />
             </div>
-            <h5 class="font-size-15 text-truncate">Henry Price</h5>
+            <h5 class="font-size-15 text-truncate">Samantha Price</h5>
             <p class="text-muted mb-0 text-truncate">UI/UX Designer</p>
           </div>
 

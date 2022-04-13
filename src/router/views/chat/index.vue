@@ -90,7 +90,7 @@ export default {
         const currentDate = new Date();
         this.chatMessagesData.push({
           align: "right",
-          name: "Henry Wells",
+          name: "Samantha Wells",
           message,
           time: currentDate.getHours() + ":" + currentDate.getMinutes(),
         });
@@ -133,13 +133,13 @@ export default {
             <div class="d-flex">
               <div class="align-self-center me-3">
                 <img
-                  src="@/assets/images/users/avatar-1.jpg"
+                  src="@/assets/images/users/avatar-1.png"
                   class="avatar-xs rounded-circle"
                   alt
                 />
               </div>
               <div class="flex-grow-1">
-                <h5 class="font-size-15 mt-0 mb-1">Henry Wells</h5>
+                <h5 class="font-size-15 mt-0 mb-1">Samantha Wells</h5>
                 <p class="text-muted mb-0">
                   <i class="mdi mdi-circle text-success align-middle me-1"></i>
                   Active

@@ -213,7 +213,7 @@ export default {
                           <div class="d-flex py-3 border-top">
                             <div class="avatar-xs me-3">
                               <img
-                                src="@/assets/images/users/avatar-2.jpg"
+                                src="@/assets/images/users/avatar-2.png"
                                 alt=""
                                 class="img-fluid d-block rounded-circle"
                               />

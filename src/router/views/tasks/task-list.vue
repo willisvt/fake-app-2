@@ -482,7 +482,7 @@ export default {
                         <div class="avatar-group-item">
                           <a href="javascript: void(0);" class="d-inline-block">
                             <img
-                              src="@/assets/images/users/avatar-4.jpg"
+                              src="@/assets/images/users/avatar-4.png"
                               alt=""
                               class="rounded-circle avatar-xs"
                             />
@@ -513,7 +513,7 @@ export default {
                         <div class="avatar-group-item">
                           <a href="javascript: void(0);" class="d-inline-block">
                             <img
-                              src="@/assets/images/users/avatar-1.jpg"
+                              src="@/assets/images/users/avatar-1.png"
                               alt=""
                               class="rounded-circle avatar-xs"
                             />
@@ -522,7 +522,7 @@ export default {
                         <div class="avatar-group-item">
                           <a href="javascript: void(0);" class="d-inline-block">
                             <img
-                              src="@/assets/images/users/avatar-2.jpg"
+                              src="@/assets/images/users/avatar-2.png"
                               alt=""
                               class="rounded-circle avatar-xs"
                             />
@@ -531,7 +531,7 @@ export default {
                         <div class="avatar-group-item">
                           <a href="javascript: void(0);" class="d-inline-block">
                             <img
-                              src="@/assets/images/users/avatar-3.jpg"
+                              src="@/assets/images/users/avatar-3.png"
                               alt=""
                               class="rounded-circle avatar-xs"
                             />

@@ -98,7 +98,7 @@ export default {
               <div class="col-lg-4">
                 <div class="text-lg-center">
                   <img
-                    src="@/assets/images/users/avatar-2.jpg"
+                    src="@/assets/images/users/avatar-2.png"
                     class="avatar-sm me-3 mx-lg-auto mb-3 mt-1 float-start float-lg-none rounded-circle"
                     alt="img"
                   />
@@ -377,7 +377,7 @@ export default {
               <div class="col-lg-4">
                 <div class="text-lg-center">
                   <img
-                    src="@/assets/images/users/avatar-1.jpg"
+                    src="@/assets/images/users/avatar-1.png"
                     class="avatar-sm me-3 mx-lg-auto mb-3 mt-1 float-start float-lg-none rounded-circle"
                     alt="img"
                   />
@@ -489,7 +489,7 @@ export default {
               <div class="col-lg-4">
                 <div class="text-lg-center">
                   <img
-                    src="@/assets/images/users/avatar-4.jpg"
+                    src="@/assets/images/users/avatar-4.png"
                     class="avatar-sm me-3 mx-lg-auto mb-3 mt-1 float-start float-lg-none rounded-circle"
                     alt="img"
                   />

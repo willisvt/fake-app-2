@@ -4,7 +4,7 @@ const projectData = [
         image: require('@/assets/images/companies/img-1.png'),
         text: 'New admin Design',
         subtext: 'It will be as simple as Occidental',
-        users: [require('@/assets/images/users/avatar-2.jpg'), require('@/assets/images/users/avatar-1.jpg')],
+        users: [require('@/assets/images/users/avatar-2.png'), require('@/assets/images/users/avatar-1.png')],
         status: 'Completed',
         date: '15 Oct, 19',
         comment: 214
@@ -14,7 +14,7 @@ const projectData = [
         image: require('@/assets/images/companies/img-2.png'),
         text: 'Brand logo design',
         subtext: 'To achieve it would be necessary',
-        users: [require('@/assets/images/users/avatar-3.jpg')],
+        users: [require('@/assets/images/users/avatar-3.png')],
         status: 'Pending',
         date: '22 Oct, 19',
         comment: 183
@@ -24,7 +24,7 @@ const projectData = [
         image: require('@/assets/images/companies/img-3.png'),
         text: 'New Landing Design',
         subtext: 'For science, music, sport, etc',
-        users: [require('@/assets/images/users/avatar-5.jpg'), require('@/assets/images/users/avatar-4.jpg')],
+        users: [require('@/assets/images/users/avatar-5.jpg'), require('@/assets/images/users/avatar-4.png')],
         status: 'Delay',
         date: '13 Oct, 19',
         comment: 175
@@ -64,7 +64,7 @@ const projectData = [
         image: require('@/assets/images/companies/img-3.png'),
         text: 'Multipurpose Landing',
         subtext: 'It will be as simple as Occidental',
-        users: [require('@/assets/images/users/avatar-3.jpg')],
+        users: [require('@/assets/images/users/avatar-3.png')],
         status: 'Delay',
         date: '15 Oct, 19',
         comment: 214
@@ -74,7 +74,7 @@ const projectData = [
         image: require('@/assets/images/companies/img-4.png'),
         text: 'App Landing UI',
         subtext: 'For science, music, sport, etc',
-        users: [require('@/assets/images/users/avatar-4.jpg')],
+        users: [require('@/assets/images/users/avatar-4.png')],
         status: 'Completed',
         date: '11 Oct, 19',
         comment: 185

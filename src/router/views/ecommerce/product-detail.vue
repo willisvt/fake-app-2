@@ -235,7 +235,7 @@ export default {
 
               <div class="d-flex py-3 border-bottom">
                 <img
-                  src="@/assets/images/users/avatar-2.jpg"
+                  src="@/assets/images/users/avatar-2.png"
                   class="avatar-xs me-3 rounded-circle"
                   alt="img"
                 />
@@ -265,7 +265,7 @@ export default {
               </div>
               <div class="d-flex py-3 border-bottom">
                 <img
-                  src="@/assets/images/users/avatar-4.jpg"
+                  src="@/assets/images/users/avatar-4.png"
                   class="avatar-xs me-3 rounded-circle"
                   alt="img"
                 />
@@ -298,7 +298,7 @@ export default {
                       alt="img"
                     />
                     <div class="flex-grow-1">
-                      <h5 class="mt-0 font-size-15">Henry</h5>
+                      <h5 class="mt-0 font-size-15">Samantha</h5>
                       <p class="text-muted">
                         Their separate existence is a myth. For science, music,
                         sport, etc.

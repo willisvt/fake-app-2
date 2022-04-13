@@ -1,7 +1,7 @@
 const chatData = [
     {
         id: 1,
-        image: require('@/assets/images/users/avatar-2.jpg'),
+        image: require('@/assets/images/users/avatar-2.png'),
         name: 'Steven Franklin',
         message: 'Hey! there I\'m available',
         time: '05 min',
@@ -9,7 +9,7 @@ const chatData = [
     },
     {
         id: 2,
-        image: require('@/assets/images/users/avatar-3.jpg'),
+        image: require('@/assets/images/users/avatar-3.png'),
         name: 'Adam Miller',
         message: 'I\'ve finished it! See you so',
         time: '12 min',
@@ -24,7 +24,7 @@ const chatData = [
     },
     {
         id: 4,
-        image: require('@/assets/images/users/avatar-4.jpg'),
+        image: require('@/assets/images/users/avatar-4.png'),
         name: 'Jose Vickery',
         message: 'Nice to meet you',
         time: '1 hr',
@@ -39,7 +39,7 @@ const chatData = [
     },
     {
         id: 6,
-        image: require('@/assets/images/users/avatar-4.jpg'),
+        image: require('@/assets/images/users/avatar-4.png'),
         name: 'Stephen Hadley',
         message: 'I\'ve finished it! See you so',
         time: '5 hrs',
@@ -47,7 +47,7 @@ const chatData = [
     },
     {
         id: 7,
-        image: require('@/assets/images/users/avatar-2.jpg'),
+        image: require('@/assets/images/users/avatar-2.png'),
         name: 'Leord Joseph',
         message: 'This theme is awesome!',
         time: '24 min',
@@ -63,7 +63,7 @@ const chatMessagesData = [
     },
     {
         align: 'right',
-        name: 'Henry Wells',
+        name: 'Samantha Wells',
         message: 'Hi, How are you? What about our next meeting?',
         time: '10:02'
     },
@@ -79,7 +79,7 @@ const chatMessagesData = [
     },
     {
         align: 'right',
-        name: 'Henry Wells',
+        name: 'Samantha Wells',
         message: 'Wow that\'s great',
         time: '10:07'
     }

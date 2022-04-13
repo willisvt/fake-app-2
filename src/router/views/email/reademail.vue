@@ -67,7 +67,7 @@ export default {
               <div class="d-flex mb-4">
                 <img
                   class="d-flex me-3 rounded-circle avatar-sm"
-                  src="@/assets/images/users/avatar-2.jpg"
+                  src="@/assets/images/users/avatar-2.png"
                   alt="Generic placeholder image"
                 />
                 <div class="flex-grow-1">

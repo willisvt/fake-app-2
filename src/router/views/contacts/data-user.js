@@ -1,14 +1,14 @@
 const userGridData = [
     {
         id: 1,
-        name: 'David McHenry',
+        name: 'David McSamantha',
         designation: 'UI/UX Designer',
         projects: ['Photoshop', 'illustrator'],
         email: 'david@skote.com'
     },
     {
         id: 2,
-        image: require('@/assets/images/users/avatar-2.jpg'),
+        image: require('@/assets/images/users/avatar-2.png'),
         name: 'Frank Kirk',
         designation: 'Frontend Developer',
         projects: ['Html', 'Css', '2 + more'],
@@ -16,7 +16,7 @@ const userGridData = [
     },
     {
         id: 3,
-        image: require('@/assets/images/users/avatar-3.jpg'),
+        image: require('@/assets/images/users/avatar-3.png'),
         name: 'Rafael Morales',
         designation: 'Backend Developer',
         projects: ['Php', 'Java', 'Python'],
@@ -31,7 +31,7 @@ const userGridData = [
     },
     {
         id: 5,
-        image: require('@/assets/images/users/avatar-4.jpg'),
+        image: require('@/assets/images/users/avatar-4.png'),
         name: 'Minnie Walter',
         designation: 'Frontend Developer',
         projects: ['Html', 'Css', '2 + more'],

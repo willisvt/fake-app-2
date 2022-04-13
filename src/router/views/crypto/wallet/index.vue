@@ -113,7 +113,7 @@ export default {
 
               <div class="flex-grow-1">
                 <div class="text-muted">
-                  <h5>Henry Wells</h5>
+                  <h5>Samantha Wells</h5>
                   <p class="mb-1">henrywells@abc.com</p>
                   <p class="mb-0">Id no: #SK0234</p>
                 </div>

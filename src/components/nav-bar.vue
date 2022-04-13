@@ -117,7 +117,7 @@ export default {
               <img src="@/assets/images/logo.svg" alt height="22" />
             </span>
             <span class="logo-lg">
-              <img src="@/assets/images/logo-dark.png" alt height="17" />
+              <img src="@/assets/images/strive-logo-on-light.svg" alt height="40" />
             </span>
           </router-link>
 
@@ -126,7 +126,7 @@ export default {
               <img src="@/assets/images/logo-light.svg" alt height="22" />
             </span>
             <span class="logo-lg">
-              <img src="@/assets/images/logo-light.png" alt height="19" />
+              <img src="@/assets/images/strive-logo-on-dark.svg" alt height="40" />
             </span>
           </router-link>
         </div>
@@ -552,7 +552,7 @@ export default {
             <a href="javascript: void(0);" class="text-reset notification-item">
               <div class="d-flex">
                 <img
-                  src="@/assets/images/users/avatar-3.jpg"
+                  src="@/assets/images/users/avatar-3.png"
                   class="me-3 rounded-circle avatar-xs"
                   alt="user-pic"
                 />
@@ -600,7 +600,7 @@ export default {
             <a href="javascript: void(0);" class="text-reset notification-item">
               <div class="d-flex">
                 <img
-                  src="@/assets/images/users/avatar-4.jpg"
+                  src="@/assets/images/users/avatar-4.png"
                   class="me-3 rounded-circle avatar-xs"
                   alt="user-pic"
                 />
@@ -641,7 +641,7 @@ export default {
           <template v-slot:button-content>
             <img
               class="rounded-circle header-profile-user"
-              src="@/assets/images/users/avatar-1.jpg"
+              src="@/assets/images/users/avatar-1.png"
               alt="Header Avatar"
             />
             <span class="d-none d-xl-inline-block ms-1">
@@ -649,7 +649,7 @@ export default {
                {{currentUser.displayName}}
               </div>
               <div v-else>
-                Henry
+                Samantha
               </div>
               </span
             >
