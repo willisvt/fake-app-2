@@ -1414,7 +1414,7 @@ export default {
 
               <p
                 class="mb-2"
-              >{{ new Date().getFullYear() }} © Strive Design & Develop to Demo Reprise</p>
+              >{{ new Date().getFullYear() }} © Strive Designed & Developed to Demo Reprise</p>
               <p>It will be as simple as occidental in fact, it will be to an english person, it will seem like simplified English, as a skeptical</p>
             </div>
           </div>

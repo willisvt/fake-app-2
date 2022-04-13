@@ -22,7 +22,7 @@ export default {
           Array.from(preloaders).forEach((elem) => {
             elem.style.display = "none";
           });
-        document.getElementsByClassName("status").forEach((elem) => {
+        Array.from(preloaders).forEach((elem) => {
           elem.style.display = "none";
         });
       }, 1000);
