@@ -80,7 +80,7 @@ export default {
                     class="img-thumbnail rounded-circle"
                   />
                 </div>
-                <h5 class="font-size-15 text-truncate">Cynthia Price</h5>
+                <h5 class="font-size-15 text-truncate">Cynthia Wells</h5>
                 <p class="text-muted mb-0 text-truncate">UI/UX Designer</p>
               </div>
 
@@ -115,13 +115,13 @@ export default {
 
             <p
               class="text-muted mb-4"
-            >Hi I'm Cynthia Price,has been the industry's standard dummy text To an English person, it will seem like simplified English, as a skeptical Cambridge.</p>
+            >Hi I'm Cynthia Wells,has been the industry's standard dummy text To an English person, it will seem like simplified English, as a skeptical Cambridge.</p>
             <div class="table-responsive ">
               <table class="table table-nowrap mb-0">
                 <tbody>
                   <tr>
                     <th scope="row">Full Name :</th>
-                    <td>Cynthia Price</td>
+                    <td>Cynthia Wells</td>
                   </tr>
                   <tr>
                     <th scope="row">Mobile :</th>

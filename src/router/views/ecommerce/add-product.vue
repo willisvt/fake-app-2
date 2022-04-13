@@ -209,7 +209,7 @@ export default {
                     </div>
                   </div>
                   <div class="mb-3">
-                    <label for="price">Price</label>
+                    <label for="price">Wells</label>
                     <input
                       id="price"
                       name="price"

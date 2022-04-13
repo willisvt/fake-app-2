@@ -43,7 +43,7 @@ export default {
                   <tr>
                     <th>Product</th>
                     <th>Product Desc</th>
-                    <th>Price</th>
+                    <th>Wells</th>
                     <th>Quantity</th>
                     <th colspan="2">Total</th>
                   </tr>

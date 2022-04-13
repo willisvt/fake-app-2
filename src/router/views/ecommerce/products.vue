@@ -31,7 +31,7 @@ export default {
           active: true,
         },
       ],
-      sliderPrice: 800,
+      sliderWells: 800,
       currentPage: 1,
       discountRates: [],
     };
@@ -125,9 +125,9 @@ export default {
               </ul>
             </div>
             <div class="mt-4 pt-3">
-              <h5 class="font-size-14 mb-3">Price</h5>
+              <h5 class="font-size-14 mb-3">Wells</h5>
               <vue-slide-bar
-                v-model="sliderPrice"
+                v-model="sliderWells"
                 :min="0"
                 :max="1000"
                 @dragEnd="valuechange"

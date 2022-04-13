@@ -89,7 +89,7 @@ export default {
                   <tr>
                     <th style="width: 70px">No.</th>
                     <th>Item</th>
-                    <th class="text-sm-end">Price</th>
+                    <th class="text-sm-end">Wells</th>
                   </tr>
                 </thead>
                 <tbody>

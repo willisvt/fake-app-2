@@ -282,7 +282,7 @@ export default {
                       <i class="bx bx-purchase-tag-alt"></i>
                     </span>
                   </div>
-                  <h5 class="font-size-14 mb-0">Average Price</h5>
+                  <h5 class="font-size-14 mb-0">Average Wells</h5>
                 </div>
                 <div class="text-muted mt-4">
                   <h4>

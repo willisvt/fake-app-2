@@ -108,7 +108,7 @@ export default {
       <div class="col-xl-8">
         <div class="card">
           <div class="card-body">
-            <h4 class="card-title mb-4">Price</h4>
+            <h4 class="card-title mb-4">Wells</h4>
 
             <div class="row">
               <div class="col-xl-3 col-sm-4">
@@ -191,7 +191,7 @@ export default {
 
                       <div class="input-group mb-3">
                         <div class="input-group-prepend">
-                          <label class="input-group-text">Price</label>
+                          <label class="input-group-text">Wells</label>
                         </div>
                         <input type="text" class="form-control" />
                         <div class="input-group-append">
@@ -232,7 +232,7 @@ export default {
 
                       <div class="input-group mb-3">
                         <div class="input-group-prepend">
-                          <label class="input-group-text">Price</label>
+                          <label class="input-group-text">Wells</label>
                         </div>
                         <input type="text" class="form-control" />
                         <div class="input-group-append">
@@ -279,10 +279,10 @@ export default {
                   <tr>
                     <th scope="col">Amount</th>
                     <th scope="col">Total</th>
-                    <th scope="col">Price</th>
+                    <th scope="col">Wells</th>
                     <th scope="col">Amount</th>
                     <th scope="col">Total</th>
-                    <th scope="col">Price</th>
+                    <th scope="col">Wells</th>
                   </tr>
                 </thead>
                 <tbody>

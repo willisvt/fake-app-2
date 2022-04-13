@@ -63,7 +63,7 @@ export default {
         },
         {
           icon: "bx bx-purchase-tag-alt",
-          title: "Average Price",
+          title: "Average Wells",
           value: "$16.2",
         },
       ],

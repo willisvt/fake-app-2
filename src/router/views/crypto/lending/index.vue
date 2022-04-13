@@ -264,7 +264,7 @@ export default {
                 <thead>
                   <tr>
                     <th scope="col">Token</th>
-                    <th scope="col">Price</th>
+                    <th scope="col">Wells</th>
                     <th scope="col">Invest</th>
                     <th scope="col">Loans</th>
                     <th scope="col" colspan="2">Total</th>

@@ -149,7 +149,7 @@ export default {
                     {{ productDetail[0].discount }} Off
                   </h6>
                   <h5 class="mb-4">
-                    Price :
+                    Wells :
                     <span class="text-muted me-2">
                       <del>${{ productDetail[0].oldprice }} USD</del>
                     </span>

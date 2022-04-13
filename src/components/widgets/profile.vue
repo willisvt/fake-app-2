@@ -44,7 +44,7 @@ export default {
                 class="img-thumbnail rounded-circle"
               />
             </div>
-            <h5 class="font-size-15 text-truncate">Samantha Price</h5>
+            <h5 class="font-size-15 text-truncate">Samantha Wells</h5>
             <p class="text-muted mb-0 text-truncate">UI/UX Designer</p>
           </div>
 

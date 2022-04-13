@@ -627,7 +627,7 @@ export default {
 
                       <div class="input-group mb-3">
                         <div class="input-group-prepend">
-                          <label class="input-group-text">Price</label>
+                          <label class="input-group-text">Wells</label>
                         </div>
                         <input type="text" class="form-control" />
                         <div class="input-group-append">
@@ -683,7 +683,7 @@ export default {
 
                       <div class="input-group mb-3">
                         <div class="input-group-prepend">
-                          <label class="input-group-text">Price</label>
+                          <label class="input-group-text">Wells</label>
                         </div>
                         <input type="text" class="form-control" />
                         <div class="input-group-append">
