@@ -19,7 +19,7 @@ const upcomingTasks = [
     },
     {
         id: 3,
-        title: 'Create a Skote Logo',
+        title: 'Create a Strive Logo',
         date: '15 Oct, 2019',
         task: 'Waiting',
         user: [require('@/assets/images/users/avatar-5.jpg')],
@@ -49,7 +49,7 @@ const progressTasks = [
     },
     {
         id: 6,
-        title: 'Skote Dashboard UI',
+        title: 'Strive Dashboard UI',
         date: '13 Oct, 2019',
         task: 'Complete',
         user: [require('@/assets/images/users/avatar-2.png')],
@@ -111,7 +111,7 @@ const completedTasks = [
     },
     {
         id: 9,
-        title: 'Skote landing Psd',
+        title: 'Strive landing Psd',
         date: '15 Oct, 2019',
         task: 'Waiting',
         user: [require('@/assets/images/users/avatar-5.jpg')],

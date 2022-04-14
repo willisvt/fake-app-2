@@ -33,7 +33,7 @@ export default {
       title: "Calendar",
       items: [
         {
-          text: "Skote",
+          text: "Strive",
         },
         {
           text: "Calendar",

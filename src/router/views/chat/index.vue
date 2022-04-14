@@ -34,7 +34,7 @@ export default {
       title: "Chat",
       items: [
         {
-          text: "Skote",
+          text: "Strive",
           href: "/",
         },
         {

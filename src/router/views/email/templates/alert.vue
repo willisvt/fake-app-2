@@ -316,7 +316,7 @@ export default {
                             "
                             valign="top"
                           >
-                            Thanks for choosing <b>Skote</b> Admin.
+                            Thanks for choosing <b>Strive</b> Admin.
                           </td>
                         </tr>
                         <tr
@@ -341,7 +341,7 @@ export default {
                             "
                             valign="top"
                           >
-                            <b>Skote</b>
+                            <b>Strive</b>
                             <p>Support Team</p>
                           </td>
                         </tr>
@@ -369,7 +369,7 @@ export default {
                             "
                             valign="top"
                           >
-                            © 2021 Skote
+                            © 2021 Strive
                           </td>
                         </tr>
                       </table>

@@ -95,13 +95,13 @@ export default {
                 <tbody>
                   <tr>
                     <td>01</td>
-                    <td>Skote - Bootstrap 5 Admin Dashboard</td>
+                    <td>Strive - Bootstrap 5 Admin Dashboard</td>
                     <td class="text-sm-end">$499.00</td>
                   </tr>
 
                   <tr>
                     <td>02</td>
-                    <td>Skote - Bootstrap 4 Landing Template</td>
+                    <td>Strive - Bootstrap 4 Landing Template</td>
                     <td class="text-sm-end">$399.00</td>
                   </tr>
 

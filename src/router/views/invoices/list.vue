@@ -50,7 +50,7 @@ export default {
                     </span>
                   </div>
                   <h5 class="mb-1 font-size-15 text-truncate">Marion Burton</h5>
-                  <a href="#" class="text-muted">@Skote</a>
+                  <a href="#" class="text-muted">@Strive</a>
                 </div>
               </div>
 
@@ -61,7 +61,7 @@ export default {
                     class="d-block text-primary text-decoration-underline mb-2"
                     >Invoice #14251</router-link
                   >
-                  <h5 class="text-truncate mb-4 mb-lg-5">Skote Dashboard UI</h5>
+                  <h5 class="text-truncate mb-4 mb-lg-5">Strive Dashboard UI</h5>
                   <ul class="list-inline mb-0">
                     <li class="list-inline-item me-3">
                       <h5
@@ -103,7 +103,7 @@ export default {
                     alt="img"
                   />
                   <h5 class="mb-1 font-size-15 text-truncate">Francis Witte</h5>
-                  <a href="#" class="text-muted">@Skote</a>
+                  <a href="#" class="text-muted">@Strive</a>
                 </div>
               </div>
 
@@ -156,7 +156,7 @@ export default {
                     alt="img"
                   />
                   <h5 class="mb-1 font-size-15 text-truncate">Joseph Flint</h5>
-                  <a href="#" class="text-muted">@Skote</a>
+                  <a href="#" class="text-muted">@Strive</a>
                 </div>
               </div>
 
@@ -212,7 +212,7 @@ export default {
                     alt="img"
                   />
                   <h5 class="mb-1 font-size-15 text-truncate">Larry Nielsen</h5>
-                  <a href="#" class="text-muted">@Skote</a>
+                  <a href="#" class="text-muted">@Strive</a>
                 </div>
               </div>
 
@@ -267,7 +267,7 @@ export default {
                     alt="img"
                   />
                   <h5 class="mb-1 font-size-15 text-truncate">Mark Evans</h5>
-                  <a href="#" class="text-muted">@Skote</a>
+                  <a href="#" class="text-muted">@Strive</a>
                 </div>
               </div>
 
@@ -326,7 +326,7 @@ export default {
                     </span>
                   </div>
                   <h5 class="mb-1 font-size-15 text-truncate">Timothy Lee</h5>
-                  <a href="#" class="text-muted">@Skote</a>
+                  <a href="#" class="text-muted">@Strive</a>
                 </div>
               </div>
 
@@ -382,7 +382,7 @@ export default {
                     alt="img"
                   />
                   <h5 class="mb-1 font-size-15 text-truncate">Stanley Bland</h5>
-                  <a href="#" class="text-muted">@Skote</a>
+                  <a href="#" class="text-muted">@Strive</a>
                 </div>
               </div>
 
@@ -439,7 +439,7 @@ export default {
                     </span>
                   </div>
                   <h5 class="mb-1 font-size-15 text-truncate">Tommy Wilson</h5>
-                  <a href="#" class="text-muted">@Skote</a>
+                  <a href="#" class="text-muted">@Strive</a>
                 </div>
               </div>
 
@@ -494,7 +494,7 @@ export default {
                     alt="img"
                   />
                   <h5 class="mb-1 font-size-15 text-truncate">Louis Brandon</h5>
-                  <a href="#" class="text-muted">@Skote</a>
+                  <a href="#" class="text-muted">@Strive</a>
                 </div>
               </div>
 

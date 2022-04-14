@@ -155,7 +155,7 @@ export default {
                                 <h4 class="font-size-16 text-primary">
                                   Abs1981
                                 </h4>
-                                <p class="font-size-14 mb-0">- Skote User</p>
+                                <p class="font-size-14 mb-0">- Strive User</p>
                               </div>
                             </b-carousel-slide>
 
@@ -170,7 +170,7 @@ export default {
                                 <h4 class="font-size-16 text-primary">
                                   nezerious
                                 </h4>
-                                <p class="font-size-14 mb-0">- Skote User</p>
+                                <p class="font-size-14 mb-0">- Strive User</p>
                               </div>
                             </b-carousel-slide>
                           </b-carousel>
@@ -208,7 +208,7 @@ export default {
                 <div class="my-auto">
                   <div>
                     <h5 class="text-primary">Welcome Back !</h5>
-                    <p class="text-muted">Sign in to continue to Skote.</p>
+                    <p class="text-muted">Sign in to continue to Strive.</p>
                   </div>
                   <b-alert
                     v-model="isAuthError"
@@ -341,7 +341,7 @@ export default {
                 <div class="mt-4 mt-md-5 text-center">
                   <p class="mb-0">
                     ©
-                    {{ new Date().getFullYear() }} Skote. Crafted with
+                    {{ new Date().getFullYear() }} Strive. Crafted with
                     <i class="mdi mdi-heart text-danger"></i> by Themesbrand
                   </p>
                 </div>

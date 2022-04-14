@@ -2,9 +2,9 @@ const userGridData = [
     {
         id: 1,
         name: 'David McSamantha',
-        designation: 'UI/UX Designer',
+        designation: 'Sales Manager',
         projects: ['Photoshop', 'illustrator'],
-        email: 'david@skote.com'
+        email: 'david@Strive.com'
     },
     {
         id: 2,
@@ -12,7 +12,7 @@ const userGridData = [
         name: 'Frank Kirk',
         designation: 'Frontend Developer',
         projects: ['Html', 'Css', '2 + more'],
-        email: 'frank@skote.com'
+        email: 'frank@Strive.com'
     },
     {
         id: 3,
@@ -20,14 +20,14 @@ const userGridData = [
         name: 'Rafael Morales',
         designation: 'Backend Developer',
         projects: ['Php', 'Java', 'Python'],
-        email: 'Rafael@skote.com'
+        email: 'Rafael@Strive.com'
     },
     {
         id: 4,
         name: 'Mark Ellison',
         designation: 'Full Stack Developer',
         projects: ['Ruby', 'Php', '2 + more'],
-        email: 'mark@skote.com'
+        email: 'mark@Strive.com'
     },
     {
         id: 5,
@@ -35,22 +35,22 @@ const userGridData = [
         name: 'Minnie Walter',
         designation: 'Frontend Developer',
         projects: ['Html', 'Css', '2 + more'],
-        email: 'minnie@skote.com'
+        email: 'minnie@Strive.com'
     },
     {
         id: 6,
         image: require('@/assets/images/users/avatar-5.jpg'),
         name: 'Shirley Smith',
-        designation: 'UI/UX Designer',
+        designation: 'Sales Manager',
         projects: ['Photoshop', 'illustrator'],
-        email: 'shirley@skote.com'
+        email: 'shirley@Strive.com'
     },
     {
         id: 7,
         name: 'John Santiago',
         designation: 'Full Stack Developer',
         projects: ['Ruby', 'Php', '2 + more'],
-        email: 'john@skote.com'
+        email: 'john@Strive.com'
     },
     {
         id: 8,
@@ -58,7 +58,7 @@ const userGridData = [
         name: 'Colin Melton',
         designation: 'Backend Developer',
         projects: ['Php', 'Java', 'Python'],
-        email: 'colin@skote.com'
+        email: 'colin@Strive.com'
     },
 ];
 

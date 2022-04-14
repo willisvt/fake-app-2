@@ -76,8 +76,8 @@ export default {
             </p>
             <p>
               ©
-              {{ new Date().getFullYear() }} Skote. Crafted with
-              <i class="mdi mdi-heart text-danger"></i> by Themesbrand
+              {{ new Date().getFullYear() }} Strive.     Designed & Developed to Demo Reprise
+              
             </p>
           </div>
         </div>

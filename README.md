@@ -1,4 +1,4 @@
-# Skote - Vue based admin template
+# Strive - Vue based admin template
 
 ## Project setup
 ```

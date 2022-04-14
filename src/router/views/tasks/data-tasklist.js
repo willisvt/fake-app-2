@@ -54,7 +54,7 @@ const tasks = [
     {
         index: 1,
         taskType: 'upcoming',
-        name: 'Create a Skote Dashboard UI',
+        name: 'Create a Strive Dashboard UI',
         images: [require('@/assets/images/users/avatar-2.png'), require('@/assets/images/users/avatar-1.png')],
         status: 'Waiting',
         checked: false
@@ -70,7 +70,7 @@ const tasks = [
     {
         index: 3,
         taskType: 'upcoming',
-        name: 'Create a Skote Logo',
+        name: 'Create a Strive Logo',
         images: [require('@/assets/images/users/avatar-1.png')],
         status: 'Waiting',
         checked: false

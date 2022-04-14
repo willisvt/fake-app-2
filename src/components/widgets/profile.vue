@@ -26,7 +26,7 @@ export default {
           <div class="col-7">
             <div class="text-primary p-3">
               <h5 class="text-primary">Welcome Back !</h5>
-              <p>Skote Dashboard</p>
+              <p>Strive Dashboard</p>
             </div>
           </div>
           <div class="col-5 align-self-end">
@@ -45,7 +45,7 @@ export default {
               />
             </div>
             <h5 class="font-size-15 text-truncate">Samantha Wells</h5>
-            <p class="text-muted mb-0 text-truncate">UI/UX Designer</p>
+            <p class="text-muted mb-0 text-truncate">Sales Manager</p>
           </div>
 
           <div class="col-sm-8">

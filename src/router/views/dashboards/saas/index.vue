@@ -126,7 +126,7 @@ export default {
                   </div>
                   <div class="flex-grow-1 align-self-center">
                     <div class="text-muted">
-                      <p class="mb-2">Welcome to skote dashboard</p>
+                      <p class="mb-2">Welcome to Strive dashboard</p>
                       <h5 class="mb-1">Samantha wells</h5>
                       <p class="mb-0">UI / UX Designer</p>
                     </div>
@@ -192,7 +192,7 @@ export default {
               <div class="col-7">
                 <div class="text-primary p-3">
                   <h5 class="text-primary">Welcome Back !</h5>
-                  <p>Skote Saas Dashboard</p>
+                  <p>Strive Saas Dashboard</p>
 
                   <ul class="ps-3 mb-0">
                     <li class="py-1">7 + Layouts</li>
@@ -399,7 +399,7 @@ export default {
                                   href="javascript: void(0);"
                                   class="text-dark"
                                 >
-                                  Skote Saas Dashboard
+                                  Strive Saas Dashboard
                                 </a>
                               </h5>
                               <p class="text-muted mb-0">Assigned to Mark</p>
@@ -688,7 +688,7 @@ export default {
                                   href="javascript: void(0);"
                                   class="text-dark"
                                 >
-                                  Skote Crypto Dashboard
+                                  Strive Crypto Dashboard
                                 </a>
                               </h5>
                               <p class="text-muted mb-0">Assigned to Eric</p>
@@ -750,7 +750,7 @@ export default {
                                   href="javascript: void(0);"
                                   class="text-dark"
                                 >
-                                  Skote Saas Dashboard
+                                  Strive Saas Dashboard
                                 </a>
                               </h5>
                               <p class="text-muted mb-0">Assigned to Mark</p>
@@ -1039,7 +1039,7 @@ export default {
                                   href="javascript: void(0);"
                                   class="text-dark"
                                 >
-                                  Skote Crypto Dashboard
+                                  Strive Crypto Dashboard
                                 </a>
                               </h5>
                               <p class="text-muted mb-0">Assigned to Eric</p>

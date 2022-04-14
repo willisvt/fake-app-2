@@ -42,7 +42,7 @@ const projectData = [
     {
         id: 5,
         image: require('@/assets/images/companies/img-5.png'),
-        text: 'Skote Dashboard UI',
+        text: 'Strive Dashboard UI',
         subtext: 'Separate existence is a myth',
         users: [require('@/assets/images/users/avatar-7.jpg'), require('@/assets/images/users/avatar-8.jpg')],
         status: 'Completed',

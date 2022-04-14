@@ -44,7 +44,7 @@ export default {
               <img src="@/assets/images/companies/img-1.png" alt class="avatar-sm me-4" />
 
               <div class="flex-grow-1 overflow-hidden">
-                <h5 class="text-truncate font-size-15">Skote Dashboard UI</h5>
+                <h5 class="text-truncate font-size-15">Strive Dashboard UI</h5>
                 <p class="text-muted">Separate existence is a myth. For science, music, sport, etc.</p>
               </div>
             </div>
@@ -265,7 +265,7 @@ export default {
                     </td>
                     <td>
                       <h5 class="font-size-14 mb-1">
-                        <a href="javascript: void(0);" class="text-dark">Skote Landing.Zip</a>
+                        <a href="javascript: void(0);" class="text-dark">Strive Landing.Zip</a>
                       </h5>
                       <small>Size : 3.25 MB</small>
                     </td>
@@ -289,7 +289,7 @@ export default {
                     </td>
                     <td>
                       <h5 class="font-size-14 mb-1">
-                        <a href="javascript: void(0);" class="text-dark">Skote Admin.Zip</a>
+                        <a href="javascript: void(0);" class="text-dark">Strive Admin.Zip</a>
                       </h5>
                       <small>Size : 3.15 MB</small>
                     </td>
@@ -313,7 +313,7 @@ export default {
                     </td>
                     <td>
                       <h5 class="font-size-14 mb-1">
-                        <a href="javascript: void(0);" class="text-dark">Skote Logo.Zip</a>
+                        <a href="javascript: void(0);" class="text-dark">Strive Logo.Zip</a>
                       </h5>
                       <small>Size : 2.02 MB</small>
                     </td>

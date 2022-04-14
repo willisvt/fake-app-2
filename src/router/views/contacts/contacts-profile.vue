@@ -81,7 +81,7 @@ export default {
                   />
                 </div>
                 <h5 class="font-size-15 text-truncate">Cynthia Wells</h5>
-                <p class="text-muted mb-0 text-truncate">UI/UX Designer</p>
+                <p class="text-muted mb-0 text-truncate">Sales Manager</p>
               </div>
 
               <div class="col-sm-8">
@@ -129,7 +129,7 @@ export default {
                   </tr>
                   <tr>
                     <th scope="row">E-mail :</th>
-                    <td>cynthiaskote@gmail.com</td>
+                    <td>cynthiaStrive@gmail.com</td>
                   </tr>
                   <tr>
                     <th scope="row">Location :</th>
@@ -245,7 +245,7 @@ export default {
                 <tbody>
                   <tr>
                     <th scope="row">1</th>
-                    <td>Skote admin UI</td>
+                    <td>Strive admin UI</td>
                     <td>2 Sep, 2019</td>
                     <td>20 Oct, 2019</td>
                     <td>$506</td>
@@ -253,7 +253,7 @@ export default {
 
                   <tr>
                     <th scope="row">2</th>
-                    <td>Skote admin Logo</td>
+                    <td>Strive admin Logo</td>
                     <td>1 Sep, 2019</td>
                     <td>2 Sep, 2019</td>
                     <td>$94</td>

@@ -155,7 +155,7 @@ export default {
               <div class="text-white-50">
                 <h1
                   class="text-white fw-semibold mb-3 hero-title"
-                >Skote - Ico Landing for a cryptocurrency business</h1>
+                >Strive - Ico Landing for a cryptocurrency business</h1>
                 <p
                   class="font-size-14"
                 >It will be as simple as occidental in fact to an English person, it will seem like simplified as a skeptical Cambridge</p>

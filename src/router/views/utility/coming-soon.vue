@@ -109,7 +109,7 @@ export default {
                   </div>
                 </div>
               </div>
-              <h4 class="mt-5">Let's get started with Skote</h4>
+              <h4 class="mt-5">Let's get started with Strive</h4>
               <p class="text-muted">
                 It will be as simple as Occidental in fact it will be
                 Occidental.
